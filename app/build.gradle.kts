@@ -56,4 +56,10 @@ dependencies {
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
     implementation("com.squareup.retrofit2:converter-moshi:2.9.0")
     implementation("com.squareup.moshi:moshi-kotlin:1.14.0")
+
+    // Coil
+    implementation("io.coil-kt:coil:2.4.0")
+
+    // Glide
+    implementation("com.github.bumptech.glide:glide:4.16.0")
 }
